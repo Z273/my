@@ -1,7 +1,8 @@
 # Header
 menu:
   Home: 首页
-  Archives: 赵凡
+  Archives: 归档
+  tags: 标签
 rss: /atom.xml
 
 # Content
